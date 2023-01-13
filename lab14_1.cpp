@@ -46,5 +46,4 @@ void stat(const double A[],int N,double B[]){
         if(B[4]<A[i]) B[4]=A[i];
         if(B[5]>A[i]) B[5]=A[i];
     }
-
 }
